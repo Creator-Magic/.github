@@ -1,38 +1,52 @@
-<!-- Centered Header Image -->
+<!-- Creator-Magic/.github → profile/README.md
+     This is the file that renders on https://github.com/Creator-Magic -->
+
 <p align="center">
-  <img src="https://github.com/Creator-Magic/.github/blob/main/assets/vibe-coding-lab.jpg?raw=true" alt="The Vibe Coding Lab Banner">
+  <img src="https://github.com/Creator-Magic/.github/blob/main/assets/build-with-buzz.jpg?raw=true" alt="Build with Buzz — Creator Magic">
 </p>
 
-> The official GitHub home for the **Creator Magic** community. A collaborative space for innovators, creators, and professionals turning ideas into functional applications using AI and no-code/low-code tools.
+<h3 align="center">Learn Buzz AI. Build agents that work as teammates.</h3>
+
+<p align="center">
+  <a href="https://www.skool.com/creatormagic"><b>Join Buzz AI Agent Builders&nbsp;→</b></a>
+</p>
 
 ---
 
-### 🚀 What We're Building Now
+**Buzz** is the open workspace from Block where AI agents work as real teammates, not plugins.
 
-Our community is actively brainstorming and building our very first collaborative project! This is where you can see the action, contribute ideas, and meet the team.
+This is the GitHub home of **Creator Magic**. You will not find much code here, and that is deliberate — the source, the agents and the compute now live together on our own private Buzz server, shared with members.
 
-**Current Project:** **[our-first-project](https://github.com/Creator-Magic/our-first-project)**
-*   **[💡 Ideas Thread #1](https://github.com/Creator-Magic/our-first-project/issues/1):** Jump in to help us decide what to build. The current focus is a **"Toolkit for Vibe Coders."**
-*   **[🧑‍💻 Meet the Team #3](https://github.com/Creator-Magic/our-first-project/issues/3):** Introduce yourself and see the incredible skills our members are bringing to the table.
+### What members get
 
-### 🤝 How to Get Involved
+- 🐝 &nbsp;**Our private Buzz server** — build beside my AI agents on shared community compute
+- 📦 &nbsp;**The source code**, delivered to you inside Buzz
+- 🤖 &nbsp;**Every agent, workflow and prompt** from my videos, ready to paste
+- 🛠️ &nbsp;**A members-only live build every Wednesday**, where we fix your blockers
+- 🔐 &nbsp;**Buzz self-hosted properly** — your keys, your machine, fully sovereign AI
+- 👥 &nbsp;**A private room of builders** shipping real agents and apps
 
-Our code is open, but our collaboration happens inside the Creator Magic community. The best way to join our development team is to become part of the conversation first.
+### Built for
 
-**[➡️ Join the Creator Magic Community to Contribute](https://mrc.fm/contriubte)**
+🎯 &nbsp;Builders done with tutorial hell who want agents that do the work<br>
+🎯 &nbsp;Freelancers and agencies selling AI agent builds
 
-### 🧠 Our Philosophy
+### Why people listen
 
-*   **Community Led:** We are a self organizing group. Ideas are proposed, discussed, and built by the community, for the community.
-*   **Learn by Doing:** We believe the best way to learn is to build real things. We embrace experimentation and failing forward in public.
-*   **Open Source by Default:** Everything we build is open source. We aim to create tools that solve real problems for creators everywhere.
+🏆 &nbsp;Jack Dorsey has shared my Buzz tutorials three times
 
-### 🛠️ Our Favorite Tools & Tech
+🤝 &nbsp;Adobe, Zapier, ElevenLabs, 10Web and Apify pay me to teach AI to their audiences
 
-We love experimenting with the latest in AI and development. You'll find us discussing and using tools like:
+<p align="center">
+  <a href="https://x.com/jack/status/2080079881828716994">
+    <img src="https://github.com/Creator-Magic/.github/blob/main/assets/jack-dorsey-buzz.jpg?raw=true" alt="Jack Dorsey on X: welp…this video does a better job at explaining buzz than i ever could" width="620">
+  </a>
+</p>
 
-*   **AI Models:** Claude, ChatGPT, Gemini
-*   **AI Code Editors:** Cursor, Replit, Windsurf
-*   **App Builders:** Lovable, Bolt
-*   **Backend & DB:** Supabase, Docker, PostgreSQL
-*   **Deployment:** Vercel, Netlify, Akamai
+---
+
+<p align="center">
+  <a href="https://www.skool.com/creatormagic"><b>👉&nbsp; Join Buzz AI Agent Builders</b></a>
+  <br>
+  <sub>skool.com/creatormagic</sub>
+</p>
